@@ -1,2 +1,2 @@
-# Classifying-Digits
+# LendingClub.com-dataset
 Decision Tree and Random Forest
